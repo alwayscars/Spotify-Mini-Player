@@ -26,7 +26,7 @@ This application is provided as a **ready-to-use APK** in the **GitHub Releases*
 3. Install the APK on your system
 4. Launch the app and start controlling Spotify playback
 
-> ✅ No Android Emulator required
+> ✅ Works when the Spotify playback is running on the background and notification access permission is provided.
 
 ---
 
@@ -63,21 +63,6 @@ This application is provided as a **ready-to-use APK** in the **GitHub Releases*
 
 ---
 
-## 🔮 Future Enhancements
 
-- Volume control
-- Playlist support
-- Floating mini-player mode
-- Keyboard shortcut support
-
----
-
-## 👤 Author
-
-**SR Viknesh**  
-Android & Application Developer  
-IEEE Author | Vibe Coder  
-
----
 
 ⭐ If you find this project useful, consider starring the repository!
