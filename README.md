@@ -51,7 +51,7 @@ This application is provided as a **ready-to-use APK** in the **GitHub Releases*
 
 > Spotify Mini Player UI preview:
 
-![Spotify Mini Player UI](./WhatsApp%20Image%202026-01-21%20at%2011.05.38%20PM.jpeg)
+![Spotify Mini Player UI](Player.jpeg)
 
 ---
 
